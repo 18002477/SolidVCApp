@@ -1,0 +1,16 @@
+/home/cedric/PROG7311/VarsityCollege/bin/Debug/net5.0/VarsityCollege
+/home/cedric/PROG7311/VarsityCollege/bin/Debug/net5.0/VarsityCollege.deps.json
+/home/cedric/PROG7311/VarsityCollege/bin/Debug/net5.0/VarsityCollege.runtimeconfig.json
+/home/cedric/PROG7311/VarsityCollege/bin/Debug/net5.0/VarsityCollege.runtimeconfig.dev.json
+/home/cedric/PROG7311/VarsityCollege/bin/Debug/net5.0/VarsityCollege.dll
+/home/cedric/PROG7311/VarsityCollege/bin/Debug/net5.0/ref/VarsityCollege.dll
+/home/cedric/PROG7311/VarsityCollege/bin/Debug/net5.0/VarsityCollege.pdb
+/home/cedric/PROG7311/VarsityCollege/obj/Debug/net5.0/VarsityCollege.csprojAssemblyReference.cache
+/home/cedric/PROG7311/VarsityCollege/obj/Debug/net5.0/VarsityCollege.GeneratedMSBuildEditorConfig.editorconfig
+/home/cedric/PROG7311/VarsityCollege/obj/Debug/net5.0/VarsityCollege.AssemblyInfoInputs.cache
+/home/cedric/PROG7311/VarsityCollege/obj/Debug/net5.0/VarsityCollege.AssemblyInfo.cs
+/home/cedric/PROG7311/VarsityCollege/obj/Debug/net5.0/VarsityCollege.csproj.CoreCompileInputs.cache
+/home/cedric/PROG7311/VarsityCollege/obj/Debug/net5.0/VarsityCollege.dll
+/home/cedric/PROG7311/VarsityCollege/obj/Debug/net5.0/ref/VarsityCollege.dll
+/home/cedric/PROG7311/VarsityCollege/obj/Debug/net5.0/VarsityCollege.pdb
+/home/cedric/PROG7311/VarsityCollege/obj/Debug/net5.0/VarsityCollege.genruntimeconfig.cache
